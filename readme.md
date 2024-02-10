@@ -44,7 +44,7 @@ After your brain dump is processed, you'll get a preview of the structured conte
 
 With your ideas now clearly organized, save them with ease into your Obsidian vault. These structured tasks are ready to guide you towards productive action, turning mental clutter into tangible progress.
 
-### Note on Data Processing
+## **Note on Data Processing**
 Please be aware that Brain Dump utilizes GoblinTools for processing your content. This means your brain dumps are sent to an external service at http://goblin.tools for analysis and structuring. This step is crucial for transforming your unstructured notes into organized tasks.
 
 ### Privacy and Security
