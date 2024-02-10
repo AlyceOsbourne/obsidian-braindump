@@ -1,6 +1,6 @@
 # Brain Dump for Obsidian
 
-Brain Dump is a revolutionary Obsidian.md plugin crafted to transform your tangled web of thoughts into a structured list of actionable tasks. Leveraging the capabilities of GoblinTools, it turns the overwhelming process of organizing your ideas into a seamless and efficient experience. Say goodbye to the chaos of "spaghetti ideas" and welcome a new era of clarity and productivity.
+Brain Dump is a revolutionary Obsidian.md plugin crafted to transform your tangled web of thoughts into a structured list of actionable tasks. Leveraging the capabilities of [GoblinTools](http://goblin.tools), it turns the overwhelming process of organizing your ideas into a seamless and efficient experience. Say goodbye to the chaos of "spaghetti ideas" and welcome a new era of clarity and productivity.
 
 ## Key Features
 
