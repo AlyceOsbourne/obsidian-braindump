@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-braindump",
+  "name": "Braindump",
+  "version": "0.0.1",
+  "minAppVersion": "1.0.0",
+  "description": "Organize your thoughts into tasks",
+  "author": "AlyceOsbourne",
+  "authorUrl": "https://github.com/AlyceOsbourne",
+  "isDesktopOnly": true
+}
