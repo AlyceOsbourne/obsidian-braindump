@@ -10,7 +10,7 @@ Brain Dump is a revolutionary Obsidian.md plugin crafted to transform your tangl
 - **Preview and Edit:** After processing, you get to review the organized content, make edits, and ensure it aligns with your objectives before saving it to your vault.
   
 ## **Note on Data Processing**
-Please be aware that Brain Dump utilizes GoblinTools for processing your content. This means your brain dumps are sent to an external service at http://goblin.tools for analysis and structuring. This step is crucial for transforming your unstructured notes into organized tasks.
+Please be aware that Brain Dump utilizes GoblinTools for processing your content. This means your brain dumps are sent to an external service at http://goblin.tools for analysis and structuring. This step is crucial for transforming your unstructured notes into organized tasks. Goblin.Tools is an AI based service that is free to use, here is their privacy policy: https://goblin.tools/Privacy
 
 ### Privacy and Security
 We understand the importance of privacy and security for your data:
