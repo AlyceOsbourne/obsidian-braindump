@@ -10,7 +10,8 @@ Brain Dump is a revolutionary Obsidian.md plugin crafted to transform your tangl
 - **Preview and Edit:** After processing, you get to review the organized content, make edits, and ensure it aligns with your objectives before saving it to your vault.
   
 ## **Note on Data Processing**
-Please be aware that Brain Dump utilizes GoblinTools for processing your content. This means your brain dumps are sent to an external service at http://goblin.tools for analysis and structuring. This step is crucial for transforming your unstructured notes into organized tasks. Goblin.Tools is an AI based service that is free to use, here is their privacy policy: https://goblin.tools/Privacy
+Please be aware that Brain Dump utilizes GoblinTools for processing your content. This means your brain dumps are sent to an external service at http://goblin.tools for analysis and structuring. This step is crucial for transforming your unstructured notes into organized tasks. Goblin.Tools is an AI based service that is free to use, here is their privacy policy: https://goblin.tools/Privacy 
+Data is transmitted as a json based request, and then post processed once recieved to create your note.
 
 ### Privacy and Security
 We understand the importance of privacy and security for your data:
@@ -18,6 +19,8 @@ We understand the importance of privacy and security for your data:
 **Data Handling**: Your info dump sent securely to GoblinTools, processed, and then immediately returned to your Obsidian environment. We do not store your content on external servers longer than necessary for processing.
 **We only send what we need, no more** Only the text you explicitly put into the BrainDump window is sant to the api. This plugin merely provides an interface to the functionality given by `goblin.tools`.
 **Confidentiality**: Ensure that sensitive or personal information is not included in the content you process through Brain Dump to maintain your privacy.
+Data is transmitted to goblin.tools, and by proxy OpenAI, and as such, you should not input any information into the plugin that you would not input into ChatGPT.
+
 
 By using Brain Dump, you consent to this data processing step as part of the functionality provided by the plugin. If you have any concerns or questions about this process, please feel free to reach out for more information.
 
